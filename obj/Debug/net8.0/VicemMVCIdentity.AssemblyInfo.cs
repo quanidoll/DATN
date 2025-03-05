@@ -10,12 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-VicemMVCIdentity-169d7d7f-315a-427b-bf5b-50a9a2384dfb")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("VicemMVCIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c0a564b720a182d6eca8fb8796af0ad6d3dc993")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634df62aaade6852a7cd7f473a53b7e993a08cbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("VicemMVCIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VicemMVCIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

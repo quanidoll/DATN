@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xk6ls2cTL58=",
+  "dgSpecHash": "NeDrvKuYta8=",
   "success": true,
-  "projectFilePath": "D:\\DATN\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
+  "projectFilePath": "D:\\DATN\\DATN\\VicemMVCIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",

@@ -7286,11 +7286,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATN\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
+      "projectUniqueName": "D:\\DATN\\DATN\\VicemMVCIdentity.csproj",
       "projectName": "VicemMVCIdentity",
-      "projectPath": "D:\\DATN\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
+      "projectPath": "D:\\DATN\\DATN\\VicemMVCIdentity.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\DATN\\VicemMVCIdentity\\obj\\",
+      "outputPath": "D:\\DATN\\DATN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
