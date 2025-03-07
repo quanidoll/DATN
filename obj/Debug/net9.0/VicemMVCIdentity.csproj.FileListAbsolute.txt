@@ -600,7 +600,6 @@ D:\DATN\DATN\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\DATN\DATN\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\DATN\DATN\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\DATN\DATN\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\DATN\DATN\bin\Debug\net9.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -621,7 +620,6 @@ D:\DATN\DATN\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\DATN\DATN\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\DATN\DATN\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\DATN\DATN\obj\Debug\net9.0\VicemMVCIdentity.csproj.AssemblyReference.cache
@@ -772,3 +770,9 @@ D:\DATN\DATN\obj\Debug\net9.0\refint\VicemMVCIdentity.dll
 D:\DATN\DATN\obj\Debug\net9.0\VicemMVCIdentity.pdb
 D:\DATN\DATN\obj\Debug\net9.0\VicemMVCIdentity.genruntimeconfig.cache
 D:\DATN\DATN\obj\Debug\net9.0\ref\VicemMVCIdentity.dll
+D:\DATN\DATN\bin\Debug\net9.0\EPPlus.dll
+D:\DATN\DATN\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\DATN\DATN\bin\Debug\net9.0\EPPlus.System.Drawing.dll
+D:\DATN\DATN\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DATN\DATN\bin\Debug\net9.0\System.Private.Windows.Core.dll
+D:\DATN\DATN\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
